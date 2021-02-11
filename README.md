@@ -2,9 +2,12 @@
 
 [English]
 
-To Use xMacChanger : <br/>
+**USAGE** : <br/>
 -i or --interface commands for choose interface <br/>
 -m or --mac commands for enter new MAC address <br/>
+
+
+
 
 ------------------------------------------ <br/>
 xMacChanger only runs in LİNUX ! <br/>
