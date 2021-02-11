@@ -1,15 +1,16 @@
 # xMacChanger
-To Use xMacChanger :
--i or --interface commands for choose interface
--m or --mac commands for enter new MAC address
 
-###############################################
-xMacChanger only runs in LİNUX !
-###############################################
+To Use xMacChanger : <br/>
+-i or --interface commands for choose interface <br/>
+-m or --mac commands for enter new MAC address <br/>
 
-xMacChanger'ı kullanmak için :
-İnterface(arayüz) belirlemek için -i veya --interface komutlarını kullanınız
-MAC adresi yazmak için -m veya --mac komutlarını kullanınız
+------------------------------------------ <br/>
+xMacChanger only runs in LİNUX ! <br/>
+------------------------------------------ <br/>
 
-###############################################
-xMacChanger sadece LİNUX'ta çalışır !
+xMacChanger'ı kullanmak için : <br/>
+İnterface(arayüz) belirlemek için -i veya --interface komutlarını kullanınız <br/>
+MAC adresi yazmak için -m veya --mac komutlarını kullanınız <br/>
+
+------------------------------------------ <br/>
+xMacChanger sadece LİNUX'ta çalışır ! <br/>
