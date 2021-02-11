@@ -25,3 +25,4 @@ MAC adresi yazmak için -m veya --mac komutlarını kullanınız <br/>
 
 ------------------------------------------ <br/>
 xMacChanger sadece LİNUX'ta çalışır ! <br/>
+*Enes Duran*
